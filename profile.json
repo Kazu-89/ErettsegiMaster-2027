@@ -1,0 +1,54 @@
+{
+  "name": "Diak",
+  "target_year": 2027,
+  "streak_days": 0,
+  "generated_sets": 2,
+  "completed_sets": 1,
+  "total_points_earned": 4,
+  "subject_stats": {
+    "matek": {
+      "generated": 1,
+      "earned": 4,
+      "max": 34
+    },
+    "irodalom": {
+      "generated": 1,
+      "earned": 0,
+      "max": 0
+    },
+    "tortenelem": {
+      "generated": 0,
+      "earned": 0,
+      "max": 0
+    },
+    "nemet": {
+      "generated": 0,
+      "earned": 0,
+      "max": 0
+    }
+  },
+  "history": [
+    {
+      "timestamp": "2026-05-28T10:26:47.217429+00:00",
+      "type": "generated",
+      "subject": "matek",
+      "level": "kozep",
+      "title": "Matematika - 2027 Prémium gyakorlófeladatsor"
+    },
+    {
+      "timestamp": "2026-05-28T10:26:47.225197+00:00",
+      "type": "scored",
+      "subject": "matek",
+      "earned_total": 4,
+      "max_total": 34,
+      "percentage": 11.8
+    },
+    {
+      "timestamp": "2026-05-28T10:27:11.055369+00:00",
+      "type": "generated",
+      "subject": "irodalom",
+      "level": "emelt",
+      "title": "Irodalom - 2027 Prémium gyakorlófeladatsor"
+    }
+  ]
+}
